@@ -1,2 +1,2 @@
-import DUMPX
-DUMPX.login()
+import DUMPN
+DUMPN.login()
